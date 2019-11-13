@@ -8,3 +8,6 @@ Pueden hacer lo que quieran...
 
 ### Actualización para PULL
 Cambiamos en GITHUB.com
+
+#### Actualizacion para PUSH
+Cambios en máquina local
